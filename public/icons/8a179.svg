@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="130" height="235" viewBox="0 0 130 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Body outline">
+<use xlink:href="#stroke0_0_168" fill="#E9E0D3"/>
+<mask id="stroke1_0_168" fill="white">
+<use xlink:href="#stroke0_0_168"/>
+</mask>
+<path d="M65 0C38.3036 0 38.3036 37.3364 54.5536 43.9252L52.2321 57.1028L25.5357 65.8878L0 141.659L15.0893 148.248L39.4643 94.4393V149.346L32.5 235H53.3929L65 164.72L76.6071 235H97.5L90.5357 149.346V94.4393L114.911 148.248L130 141.659L104.464 65.8878L77.7679 57.1028L75.4464 43.9252C91.6964 37.3364 91.6964 0 65 0Z" stroke-width="3" stroke="#172B24" mask="url(#stroke1_0_168)"/>
+</g>
+<defs>
+<path id="stroke0_0_168" d="M65 0C38.3036 0 38.3036 37.3364 54.5536 43.9252L52.2321 57.1028L25.5357 65.8878L0 141.659L15.0893 148.248L39.4643 94.4392V149.346L32.5 235H53.3929L65 164.72L76.6071 235H97.5L90.5357 149.346V94.4392L114.911 148.248L130 141.659L104.464 65.8878L77.7679 57.1028L75.4464 43.9252C91.6964 37.3364 91.6964 0 65 0Z"/>
+</defs>
+</svg>
